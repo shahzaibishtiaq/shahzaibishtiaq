@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on MERN Stack
 - 🧐 I'm interested in Full-Stack Dev and open source
 -->
-I'm a 2nd-Year Computer Science Student with keen interests in the fields of Technology, Programming and Full Stack Development. I love to Build Web Apps in JavaScript. I strive to grow as a developer everyday 💪
+I'm a Front End Developer and passionate about building mobile-responsive & user-friendly Web Applications in ReactJs. I love to Build Web Apps in JavaScript. I strive to grow as a developer everyday 💪. Currently I'm a Second-Year Computer Science Student with keen interests in the fields of Technology, Programming and Full Stack Development.
 
 - 🌱 I’m currently learning ReactJs
 - 👯 I’m looking to collaborate on open source projects and Full Stack Development
