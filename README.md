@@ -62,6 +62,8 @@ I'm a Front End Developer and passionate about building mobile-responsive & user
 
 ## GitHub Stats:
 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=shahzaibishtiaq )  
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shahzaibishtiaq&show_icons=true&locale=en" alt="shahzaibishtiaq" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shahzaibishtiaq&" alt="shahzaibishtiaq" /></p>
