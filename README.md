@@ -31,14 +31,15 @@ I'm a Front End Developer and passionate about building mobile-responsive & user
 
 <a href="#" rel="nofollow" savefrom_lm_index="2" savefrom_lm="1"><img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" style="max-width: 100%;"></a>
 
-<a href="#" rel="nofollow" savefrom_lm_index="2" savefrom_lm="1"><img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" style="max-width: 100%;"></a>
+<a href="https://www.w3schools.com/cpp/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="26" height="26"/> </a>
+
+<a href="https://nodejs.org" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
 
 <a href="#" rel="nofollow" savefrom_lm_index="2" savefrom_lm="1"><img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" style="max-width: 100%;"></a>
 
-<a href="#" rel="nofollow"><img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" style="max-width: 100%;"></a><br><br>
-<a href="#" rel="nofollow" savefrom_lm_index="2" savefrom_lm="1"><img align="left" alt="JavaScript" margin-top="-30px" width="56px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png" style="max-width: 100%;"></a>
+<a href="#" rel="nofollow"><img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" style="max-width: 100%;"></a>
 
-<a href="#" rel="nofollow"><img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" style="max-width: 100%;"></a>
+<a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="24" height="24"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="24" height="24"/> </a><br>
 
 <a href="#" rel="nofollow"><img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" style="max-width: 100%;"></a><br>
 
@@ -55,9 +56,18 @@ I'm a Front End Developer and passionate about building mobile-responsive & user
 
 <a href="https://www.facebook.com/shahzaibishtiaq27" rel="nofollow"><img align="left" alt="Shahzaib | Facebook" width="22px" src="https://camo.githubusercontent.com/013ab4b8c0a14af1d626b6106c10a4ca83129f9b89d063db25612dcb88740bc5/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f66616365626f6f6b2e737667" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" style="max-width: 100%;"></a>
 
-<a href="https://www.instagram.com/shahzaib_ishtiaq27" rel="nofollow"><img align="left" alt="Shahzaib | Instagram" width="22px" src="https://camo.githubusercontent.com/c80f9763ed06d4ab9fbcc1a74b8b74cd95e4c7f82d3f1f70233994f236a0faeb/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f696e7374616772616d2e737667" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" style="max-width: 100%;"></a>
+<a href="https://www.instagram.com/shahzaib_ishtiaq27" rel="nofollow"><img align="left" alt="Shahzaib | Instagram" width="22px" src="https://camo.githubusercontent.com/c80f9763ed06d4ab9fbcc1a74b8b74cd95e4c7f82d3f1f70233994f236a0faeb/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f696e7374616772616d2e737667" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" style="max-width: 100%;"></a><br>
+
+## GitHub Stats:
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shahzaibishtiaq&show_icons=true&locale=en" alt="shahzaibishtiaq" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shahzaibishtiaq&" alt="shahzaibishtiaq" /></p>
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shahzaibishtiaq&layout=compact)](https://github.com/shahzaibishtiaq/github-readme-stats)
+
+![Visitors](https://gpvc.arturio.dev/shahzaibishtiaq ) 
 
 
 
