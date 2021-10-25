@@ -33,7 +33,7 @@ I'm a Front End Developer and passionate about building mobile-responsive & user
 
 <a href="https://www.w3schools.com/cpp/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="26" height="26"/> </a><br>
 
-<a href="https://nodejs.org" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="26" height="26"/> </a>
+
 
 <a href="#" rel="nofollow" savefrom_lm_index="2" savefrom_lm="1"><img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" style="max-width: 100%;"></a>
 
