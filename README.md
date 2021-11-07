@@ -33,15 +33,10 @@ Currently, I'm a Second-Year Student at NUML University pursuing a degree in Com
 
 <a href="#" rel="nofollow" savefrom_lm_index="2" savefrom_lm="1"><img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" style="max-width: 100%;"></a>
 
-<a href="https://www.w3schools.com/cpp/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="26" height="26"/> </a><br>
-
-
 
 <a href="#" rel="nofollow" savefrom_lm_index="2" savefrom_lm="1"><img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" style="max-width: 100%;"></a>
 
 <a href="#" rel="nofollow"><img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" style="max-width: 100%;"></a>
-
-<a href="https://cloud.google.com" target="_blank"> <img align="left" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="26" height="26"/> </a> 
 
 <a href="https://git-scm.com/" target="_blank"> <img align="left" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="26" height="26"/> </a>
 
