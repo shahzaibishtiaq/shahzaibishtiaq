@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 -->
 I'm a Front end developer and passionate about building Mobile-Responsive & User-Friendly Web Applications. I love to Build Web Apps in JavaScript. I'm always eager to learn more in this fast-paced industry. I strive to grow as a developer every day.
 
-Currently, I'm a Second-Year Student at NUML University pursuing a degree in Computer Science. I've keen interests in the fields of Technology, Programming, and Full Stack Development.
+<!--Currently, I'm a Second-Year Student at NUML University pursuing a degree in Computer Science. I've keen interests in the fields of Technology, Programming, and Full Stack Development.-->
 
 - 🌱 I’m currently learning ReactJs
 - 👯 I’m looking to collaborate on open source projects and Full Stack Development
